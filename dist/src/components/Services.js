@@ -25,7 +25,7 @@ function Services() {
         }
     ]
     return (
-        <div className="py-20">
+        <div className="py-20 bg-red-100">
             <div className="grid grid-cols-12 gap-4 mx-auto container">
                 <div className="col-span-5">
                     <h1 className="font-bold text-5xl text-gray-700 leading-tight">One stop for <br />ingenuity</h1>
