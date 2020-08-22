@@ -18,7 +18,7 @@ function ContactUs() {
                                     <input className="p-3 border rounded text-gray-700 w-full" placeholder="First Name" />
                                 </div>
                                 <div>
-                                    <input className="p-3 border rounded text-gray-700 w-full" placeholder="First Name" />
+                                    <input className="p-3 border rounded text-gray-700 w-full" placeholder="Last Name" />
                                 </div>
                             </div>
                             <div className="my-8">
