@@ -9,12 +9,12 @@ function AboutUs() {
                 <div className="col-span-7">
                     <h1 className="font-bold text-5xl text-gray-700 leading-tight">We are <br />problem solvers</h1>
                     <div className="h-1 w-12 bg-orange-600 rounded mt-3"></div>
-                    <p className="text-gray-700 leading-7 tracking-wide text-lg py-6">Driven by genuine commitment to quality in every aspect of our work.</p>
+                    <p className="text-gray-700 leading-7 tracking-wide py-6">Driven by genuine commitment to quality in every aspect of our work.</p>
                     <div className="flex items-center py-6">
                         <p className="text-gray-700 leading-7 tracking-wider uppercase text-sm font-semibold border-b-2 border-gray-700">About Us</p>
                     </div>
                     <p className="leading-7 tracking-wide text-gray-700">
-                        For the past 5 years we’ve been helping creatives and entreprenuers bring their visions to life. Whether you are a startup or a web agency, we work as an extension to your team, bringing our resources and expertise to your organization.<span className="text-indigo-600 cursor-pointer font-medium"> Contact us</span> for more details about different cooperation models and prices.
+                        For the past 6 years we’ve been helping creatives and entreprenuers bring their visions to life. Whether you are a startup or a web agency, we work as an extension to your team, bringing our resources and expertise to your organization.<span className="text-indigo-600 cursor-pointer font-medium"> Contact us</span> for more details about different cooperation models and prices.
                     </p>
                 </div>
                 <div className="col-span-5">

@@ -12,7 +12,7 @@ function Portfolio() {
                 <div className="mx-32">
                     <div className="grid grid-cols-2 py-12">
                         <div className="text-gray-700 px-5 py-8 border-r border-gray-400">
-                            <p className="leading-7 tracking-wide">Money Tree strategy, user experience, design, engineering, and project management have worked with the Hammer & Tongues Money Lenders Production Operations team since 2017. We are partnering to build web apps that transform how Hammer & Toungues Money Lenders manages its funds.</p>
+                            <p className="leading-7 tracking-wide">Money Tree strategy, user experience, design, engineering, and project management have worked with the Hammer & Tongues Money Lenders Portfolio Management team since 2017. We are partnering to build web apps that transform how Hammer & Toungues Money Lenders manages its funds.</p>
                             <h1 className="mt-5 font-semibold">Hammer & Tongues Money Lenders</h1>
                             <button className="px-5 py-2 flex items-center justify-center border border-gray-700 mt-8 w-48">
                                 <BsArrowRight />
@@ -20,7 +20,7 @@ function Portfolio() {
                             </button>
                         </div>
                         <div className="px-5 py-8">
-                            <p className="leading-7 tracking-wide">
+                            <p className="leading-7 text-gray-700 tracking-wide">
                             Commercial Bank of Zimbabwe (CBZ) was building an innovative new Ember.js app. Money Tree provided extensive training and code review expertise to the financial services company’s development team, allowing Fidelity to stay on track with its strategically important project.
                             </p>
                             <h1 className="mt-5 font-semibold text-gray-700">Commercial Bank of Zimbabwe (CBZ)</h1>
@@ -38,10 +38,10 @@ function Portfolio() {
                             </button>
                         </div>
                         <div className="border-t border-b border-gray-400 px-5 py-8">
-                            <p className="leading-7 tracking-wide">
+                            <p className="leading-7 tracking-wide text-gray-700">
                             An entrepreneur engaged us to lead digital product development for a skill-sharing marketplace. Responsible for the web application’s strategy, user experience, design, and engineering, Money Tree also worked closely with the client after launch to build her IT Support team.
                             </p>
-                            <h1 className="mt-5 font-semibold text-gray-700">Afrosoft Innovations</h1>
+                            <h1 className="mt-5 font-semibold">Afrosoft Innovations</h1>
                             <button className="px-5 py-2 flex items-center justify-center border mt-8 w-48 bg-orange-600">
                                 <BsArrowRight className="text-white"/>
                                 <p className="ml-3 text-white">Learn More</p>
@@ -56,7 +56,7 @@ function Portfolio() {
                             </button>
                         </div>
                         <div className="px-5 py-8">
-                            <p className="leading-7 tracking-wide">
+                            <p className="leading-7 tracking-wide text-gray-700">
                             CreditCardReviews.com wanted to transform the online comparison shopping experience for credit cards. Monet Tree engineered a sophisticated real-time calculation tool using Ember.js and designed a user-friendly, responsive web application so shoppers could quickly access results.
                             </p>
                             <h1 className="mt-5 font-semibold text-gray-700">CreditCardReviews.com</h1>
