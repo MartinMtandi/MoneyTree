@@ -11,7 +11,7 @@ function AboutUs() {
                     <div className="h-1 w-12 bg-orange-600 rounded mt-3"></div>
                     <p className="text-gray-700 leading-7 tracking-wide text-lg py-6">Driven by genuine commitment to quality in every aspect of our work.</p>
                     <div className="flex items-center py-6">
-                        <p className="text-gray-700 leading-7 tracking-wider uppercase text-sm font-semibold">About Us</p>
+                        <p className="text-gray-700 leading-7 tracking-wider uppercase text-sm font-semibold border-b-2 border-gray-700">About Us</p>
                     </div>
                     <p className="leading-7 tracking-wide ">
                         For the past 5 years we’ve been helping creatives and entreprenuers bring their visions to life. Whether you are a startup or a web agency, we work as an extension to your team, bringing our resources and expertise to your organization.<span className="text-indigo-600 cursor-pointer font-medium"> Contact us</span> for more details about different cooperation models and prices.
@@ -23,7 +23,7 @@ function AboutUs() {
             </div>
             <div className="flex items-center justify-between pt-10 mx-auto container px-24">
                 <div className="text-center mx-8">
-                    <h1 className="text-gray-800 text-6xl py-2 "><Counter start={0} end={5} delay={30} /></h1>
+                    <h1 className="text-gray-800 text-6xl py-2 "><Counter start={0} end={6} delay={30} /></h1>
                     <p className="leading-snug tracking-wide  text-lg text-gray-700">Years Of <br />Experience</p>
                 </div>
                 <div className="text-center mx-8">
