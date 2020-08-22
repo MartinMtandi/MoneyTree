@@ -3,7 +3,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 function Portfolio() {
     return (
-        <div className="py-20 bg-gray-100">
+        <div className="py-20 bg-gray-100" id="portfolio">
            <div className="container mx-auto">
                 <div className="text-center">
                     <h1 className="font-bold text-5xl text-gray-700 leading-tight">Our <br />Portfolio</h1>

@@ -3,7 +3,7 @@ import { BsArrowRight } from "react-icons/bs";
 
 function ContactUs() {
     return (
-        <div className="py-32">
+        <div className="py-32" id="contact">
             <div className="container mx-auto">
                 <div className="grid grid-cols-12 gap-4">
                     <div className="col-span-5">

@@ -15,16 +15,16 @@ function Navbar() {
                 </div>
                 <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto md:text-right font-medium">
                     <div class="lg:flex-grow text-right text-gray-700">
-                        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
+                        <a href="#home" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
                             Home
                         </a>
-                        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
+                        <a href="#portfolio" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
                            Portfolio
                         </a>
-                        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
+                        <a href="#about" class="block mt-4 lg:inline-block lg:mt-0 mr-6">
                             About 
                         </a>
-                        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0">
+                        <a href="#contact" class="block mt-4 lg:inline-block lg:mt-0">
                             Contact Us 
                         </a>
                     </div>

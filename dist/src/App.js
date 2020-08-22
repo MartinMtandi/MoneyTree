@@ -12,7 +12,7 @@ function App() {
           <Route exact path="/" component={Home}/>
         </Router>
     </div>
-  );
+  )
 }
 
 export default App;

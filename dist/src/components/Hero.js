@@ -9,7 +9,7 @@ const imageStyle = {
 
 function Hero() {
     return (
-        <div className="bg-cover w-full bg-center border-none" style={imageStyle}>
+        <div className="bg-cover w-full bg-center border-none" style={imageStyle} id="home">
            <div className="hero h-full">
             <div className="mx-auto container">
                     <div className="py-20">
